@@ -118,7 +118,7 @@ input[type=checkbox].css-checkbox:checked + label.css-label{
 }
 
 .css-label{
-	background-image:url(img/checked.jpg);
+	background-image:url(../img/checked.jpg);
 }
 
 #formulario .left{
@@ -289,7 +289,7 @@ input[type=checkbox].css-checkbox2:checked + label.css-label2{
 }
 
 .css-label2{
-	background-image:url(img/checked.png);
+	background-image:url(../img/checked.png);
 }
 
 .factura_div{
@@ -316,29 +316,3 @@ input.numero2{
 .enviar:hover{
 	opacity:0.7;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
